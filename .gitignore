@@ -1,0 +1,10 @@
+
+*.jpg
+
+*.png
+
+
+!results/**/*.jpg
+
+!results/**/*.png
+

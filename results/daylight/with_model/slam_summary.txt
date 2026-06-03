@@ -1,0 +1,7 @@
+Dataset: Daylight Enhanced
+Frames: 358
+Map Created: Yes
+Map Points: 260
+Trajectory Generated: Yes
+Median Tracking Time: 0.010205
+Mean Tracking Time: 0.0123894

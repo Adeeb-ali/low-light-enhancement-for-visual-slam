@@ -1,0 +1,20 @@
+Dataset: Extreme Enhanced
+
+Frames: 387
+
+Brightness Avg: 97.94
+
+ORB Features Avg: 851.38
+
+ORB Matches Avg: 499.09
+
+Map Initialization: Success
+
+First KeyFrame Created: Yes
+
+Map Points Generated: 77
+
+Tracking Failure: None Observed
+
+Median Tracking Time: 0.00980192
+Mean Tracking Time: 0.0102136

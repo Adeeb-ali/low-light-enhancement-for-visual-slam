@@ -1,0 +1,2 @@
+dataset,pipeline,frames,brightness_avg,brightness_min,brightness_max,orb_avg,orb_min,orb_max
+moderate,with_model,401,86.89,47.76,97.62,261.35,0,659

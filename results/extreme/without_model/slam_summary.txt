@@ -1,0 +1,18 @@
+Dataset: Extreme Raw
+
+Frames: 402
+
+Brightness Avg: 18.26
+
+ORB Features Avg: 39.53
+
+ORB Matches Avg: 25.98
+
+Map Created: No
+First KeyFrame: No
+Tracking Started: No
+
+SLAM Initialization: Failed
+
+Median Tracking Time: 0.00460675
+Mean Tracking Time: 0.00534269

@@ -1,0 +1,7 @@
+Dataset: Daylight Raw
+Frames: 355
+Map Created: Yes
+Map Points: 386
+Trajectory Generated: Yes
+Median Tracking Time: 0.00897354
+Mean Tracking Time: 0.00992197

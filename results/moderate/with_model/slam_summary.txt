@@ -1,0 +1,24 @@
+Dataset: Moderate Enhanced
+
+Frames Evaluated: 398
+
+Map Initialization: Success
+
+First Keyframe Created: Yes
+
+Map Points Generated: 81
+
+Tracking Duration:
+Approximately 343 frames
+
+Tracking Failure:
+TRACK_REF_KF: Less than 15 matches
+
+Map Reset:
+Yes
+
+Trajectory Export:
+No (KeyFrameTrajectory.txt empty after map reset)
+
+Median Tracking Time: 0.00952167
+Mean Tracking Time: 0.00973846

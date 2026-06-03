@@ -1,0 +1,17 @@
+Dataset: Moderate Raw
+Frames: 621
+Brightness Avg: 1.59
+Brightness Min: 0.00
+Brightness Max: 2.69
+
+ORB Features Avg: 24.27
+ORB Features Min: 0
+ORB Features Max: 268
+
+ORB Matches Avg: 68.07
+ORB Matches Min: 1
+ORB Matches Max: 166
+
+Map Created: No
+Trajectory Generated: No
+SLAM Initialization: Failed

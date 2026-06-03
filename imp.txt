@@ -1,0 +1,10 @@
+chmod +x scripts/enhance.sh
+./scripts/enhance.sh daylight - run the docker code base 
+
+
+
+scripts/run_slam.sh
+chmod +x scripts/run_slam.sh
+bash scripts/run_slam.sh extreme_raw
+bash scripts/run_slam.sh extreme_enhanced
+

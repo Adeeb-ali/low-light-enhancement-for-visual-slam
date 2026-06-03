@@ -1,0 +1,2 @@
+dataset,pipeline,frames,brightness_avg,brightness_min,brightness_max,orb_avg,orb_min,orb_max
+daylight,without_model,358,5.76,4.25,8.85,715.39,625,839
